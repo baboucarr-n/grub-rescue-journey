@@ -363,4 +363,4 @@ I am excited to continue this journey. Breaking things and fixing them is how yo
 
 ---
 
-*Written by baboucarr on August 2, 2026. This is a living document - I will update it as I complete the partition expansion.*
+*Written by baboucarr on August 2, 2026.*
